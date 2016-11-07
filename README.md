@@ -1,3 +1,3 @@
 # BlockchainRecomposition
 
-Go to [Wiki](https://github.com/LyleMcDonald/BlockchainRecomposition/wiki)
+## [Content on Wiki!](https://github.com/LyleMcDonald/BlockchainRecomposition/wiki)
